@@ -1,0 +1,19 @@
+# 小狼毫构建文件
+build/
+*.userdb
+*.db
+*.log
+
+# 同步相关
+sync/
+
+# 备份目录
+backup/
+
+# IDE 相关
+.vscode/
+.idea/
+
+# 临时文件
+*.tmp
+*.temp
